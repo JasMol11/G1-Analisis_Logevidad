@@ -30,6 +30,6 @@ Gracias a estas herramientas, pudimos realizar gráficos y análisis como:
 - Gráficas de Barras: Para comparar la influencia de diferentes factores en la longevidad.
 - Gráficas de Dispersión: Para identificar patrones de correlación entre variables.
 
-#Conclusión:
+# Conclusión:
 
 El proyecto es una herramienta valiosa para comprender los elementos que influyen en la longevidad en Guatemala y El Salvador. Al combinar análisis de datos, visualizaciones y enfoques estadísticos, proporcionamos una base sólida para futuras investigaciones y posibles intervenciones en políticas públicas que promuevan la salud y el bienestar de las poblaciones de estos países.
